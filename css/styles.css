@@ -1,0 +1,142 @@
+html, body { 
+	height: 100%; padding: 0; margin: 0; 
+}
+
+
+div {
+	width: 8.3%; 
+	height: 100%; 
+	float: left; 
+	background: black;
+	display: inline;
+	font-family: Pacifico;
+}
+
+#aries { 
+	background-image:url(../images/aries2.svg.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #ff1919;
+	background-position: center;
+}
+
+#taurus { 
+	background: #AAA; 
+	background-image:url(../images/taurus.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #cc8400;
+	background-position: center;
+}
+
+#gemini {
+ 	background: #AAA; 
+	background-image:url(../images/gemini.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #ffae19;
+	background-position: center; 
+}
+
+#cancer { 
+	background: #AAA; 
+	background-image:url(../images/cancer.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #ffc04c;
+	background-position: center; 
+}
+
+#leo{
+	background: #AAA; 
+	background-image:url(../images/leo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #ffff19;
+	background-position: center; 
+}
+
+#virgo{
+	background: #AAA; 
+	background-image:url(../images/virgo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #98fb98;
+	background-position: center;
+}
+
+#libra{
+	background: #AAA; 
+	background-image:url(../images/libra.svg.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #329932;
+	background-position: center;
+}
+
+#scorpio{
+	background: #AAA; 
+	background-image:url(../images/scorpio.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #1bf0eb;
+	background-position: center;
+}
+
+#saggitarius{
+	background: #AAA; 
+	background-image:url(../images/virgo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #98fb98;
+	background-position: center;
+}
+
+#capricorn{
+	background: #AAA; 
+	background-image:url(../images/virgo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #98fb98;
+	background-position: center;
+}
+
+#auqarius{
+	background: #AAA; 
+	background-image:url(../images/virgo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #98fb98;
+	background-position: center;
+}
+
+#pisces{
+	background: #AAA; 
+	background-image:url(../images/virgo.png);
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-color: #98fb98;
+	background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
